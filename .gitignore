@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+.vs/OpenGL-Project/v15/Browse.VC.db
+.vs/OpenGL-Project/v15/Browse.VC.opendb
+.vs/OpenGL-Project/v15/.suo
